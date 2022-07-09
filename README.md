@@ -1,1 +1,3 @@
 # gitVjezba
+
+OVO JE VJEZBA
